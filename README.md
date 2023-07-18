@@ -7,7 +7,7 @@ Arduino ESP8266 vMix Tally Light
 
 ### Quick Start
 1. Flash ESP8266
-2. Wait & Check your wifi
+2. Wait & Check your WiFi
 3. Connect to TallySource{number} SSID
 4. Go to `http://192.168.2.1`
 5. Setting your TallyLight
