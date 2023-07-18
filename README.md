@@ -2,6 +2,8 @@
 Arduino ESP8266 vMix Tally Light
 
 ### Features
+- Live Light
+- Preview Light
 - Custom Config
 - Web Based Config
 
