@@ -15,3 +15,4 @@ Arduino ESP8266 vMix Tally Light
 
 ### Tested on
 - LOLIN(WEMOS) D1 Mini
+- .....
